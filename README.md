@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-SecondActivity.java
+## SecondActivity.java
 ```
 package com.example.explicitintent;
 
