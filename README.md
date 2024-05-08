@@ -26,8 +26,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:
-Registeration Number :
+Developed by:Bala Sathiesh CS
+Registeration Number :212222040022
 */
 ```
 MainActivity.java
